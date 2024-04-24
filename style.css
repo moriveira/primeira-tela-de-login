@@ -1,0 +1,89 @@
+* {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+}
+
+#box {
+    padding: 240px 10px 50px 50px;
+    background-image: url(img/backgroundwhite.jpg);
+    background-position: 15%;
+    margin-left: 700px;
+    margin-top: 150px;
+    margin-right: 700px;
+    border-radius: 20px;
+}
+
+#box h2 {
+    margin-top: -180px;
+    margin-left: 175px;
+}
+
+.username {
+    margin-top: 50px;
+}
+
+.username input {
+    padding: 15px 220px 15px 15px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background-color: transparent;
+}
+
+
+.password {
+    margin-top: 30px;
+}
+
+.password input {
+    padding: 15px 220px 15px 15px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    outline: none;
+    background-color: transparent;
+}
+
+.forgot b {
+    margin-left: 265px;
+    margin-top: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login {
+    padding: 5px 5px 5px 10px;
+    background-image:url(img/fds.webp) ;
+    background-position: 15%;
+    background-size: 300%;
+    border-radius: 40px;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 100px;
+    color: transparent;
+    background-clip: text;
+    cursor: pointer;
+}
+
+.login p {
+    color: white;
+    margin-left: 112px;
+}
+
+.sign {
+    margin-top: 70px;
+    margin-left: 138px;
+    background-color: transparent;
+}
+
+.redes {
+    border-radius: 80px;
+    margin-top: 70px;
+    margin-left: 138px;
+}
+
+.redes img {
+    cursor: pointer;
+}
+
